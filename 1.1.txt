@@ -1,0 +1,2 @@
+github pages deployed url : https://rohitparv.github.io/WSD-Assignment1/
+github repo url:https://github.com/RohitParv/WSD-Assignment1
