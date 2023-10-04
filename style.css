@@ -80,3 +80,11 @@ body{
     margin-bottom: 10px;
     border-width: 3px;
 }
+
+footer{
+    background-color: white;
+}
+
+footer div {
+    text-align: center;
+}
